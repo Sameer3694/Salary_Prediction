@@ -1,2 +1,2 @@
 # Salary_Prediction
-Creating a web application to predict/suggest salary of an employee using Python Flask API using employyes basic information. 
+Deploying salary prediction model using Python Flask to predict/suggest salary of an employee using employyes basic information. 
